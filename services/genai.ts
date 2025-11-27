@@ -1,6 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { GarmentSelection } from "../types";
 
+// Ensure process.env.API_KEY is available during build/runtime
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 // Helper to convert base64 to raw data for the SDK if needed, 

@@ -1,12 +1,9 @@
 import React, { useState, useCallback } from 'react';
 import { 
-  ShoppingBag, 
   Scissors, 
   Sparkles, 
   ArrowRight, 
   RotateCcw, 
-  Shirt, 
-  Check,
   Download,
   Layers
 } from 'lucide-react';
