@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MD Fashion Studio",
+  "description": "Virtual dressing room and fashion studio powered by AI",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
